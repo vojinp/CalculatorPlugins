@@ -1,0 +1,3 @@
+[opertaion]
+simple_visualizer = addition.addition:Addition
+

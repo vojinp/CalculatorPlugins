@@ -1,0 +1,9 @@
+setup.py
+calculator/__init__.py
+calculator/main.py
+calculator_plugins.egg-info/PKG-INFO
+calculator_plugins.egg-info/SOURCES.txt
+calculator_plugins.egg-info/dependency_links.txt
+calculator_plugins.egg-info/namespace_packages.txt
+calculator_plugins.egg-info/not-zip-safe
+calculator_plugins.egg-info/top_level.txt

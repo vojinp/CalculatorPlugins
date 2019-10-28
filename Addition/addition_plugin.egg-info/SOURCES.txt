@@ -1,0 +1,11 @@
+setup.py
+addition/__init__.py
+addition/addition.py
+addition_plugin.egg-info/PKG-INFO
+addition_plugin.egg-info/SOURCES.txt
+addition_plugin.egg-info/dependency_links.txt
+addition_plugin.egg-info/entry_points.txt
+addition_plugin.egg-info/namespace_packages.txt
+addition_plugin.egg-info/requires.txt
+addition_plugin.egg-info/top_level.txt
+addition_plugin.egg-info/zip-safe
